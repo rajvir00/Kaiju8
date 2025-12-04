@@ -1,0 +1,19 @@
+{
+  "name": "Kaiju8 Token List",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x30dec274a8fb6307d354191aa86ef3c14fb16332",
+      "name": "Kaiju8",
+      "symbol": "KAIJU8",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/fbdwm7zZ/Oh9Gbd-V-400x400.png"
+    }
+  ]
+}
